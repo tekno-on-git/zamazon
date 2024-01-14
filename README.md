@@ -4,9 +4,9 @@ An FullStack Ecommerce Website built using Next.js and MongoDB
 
 ## Tools Used
 
-#### Next.js
+#### ![Next.js](https://icons8.com/icon/yUdJlcKanVbh/next.js)
 
-#### MongoDB
+#### MongoDB Atlas
 
 #### Prisma
 
